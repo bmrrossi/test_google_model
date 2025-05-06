@@ -4,7 +4,7 @@ console.log('iniciou');
 
 // Configurações
 const TARGET_COORD = [-27.64087323792725, -52.26895268166483]; // Exemplo: São Paulo
-const PRECISION = 0.00004; // ~5 metros
+const PRECISION = 0.0003; // ~5 metros
 
 // Elementos
 const mapElement = document.getElementById('map');
