@@ -1,4 +1,4 @@
-import QRCode from 'qrcode';
+import * as QRCode from 'https://unpkg.com/qrcode@1.2.0/build/qrcode.min.js';
 
 console.log('iniciou');
 
