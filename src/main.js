@@ -1,3 +1,5 @@
+console.log('test')
+
 import QRCode from './qrcode';
 
 console.log('iniciou');
