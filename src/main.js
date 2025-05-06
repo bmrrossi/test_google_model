@@ -1,4 +1,6 @@
-import QRCode from 'qrcode';
+import QRCode from './qrcode';
+
+console.log('iniciou');
 
 // Configurações
 const TARGET_COORD = [-27.64060437944407, -52.26935943212417]; // Exemplo: São Paulo
