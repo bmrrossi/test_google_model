@@ -3,8 +3,8 @@ import * as QRCode from 'https://unpkg.com/qrcode@1.2.0/build/qrcode.min.js';
 console.log('iniciou');
 
 // Configurações
-const TARGET_COORD = [-27.64060437944407, -52.26935943212417]; // Exemplo: São Paulo
-const PRECISION = 0.0001; // ~111 metros
+const TARGET_COORD = [-27.64087323792725, -52.26895268166483]; // Exemplo: São Paulo
+const PRECISION = 0.00004; // ~5 metros
 
 // Elementos
 const mapElement = document.getElementById('map');
